@@ -1,6 +1,4 @@
 # webhook-test
 Testing the webhook
 
-bmeg
-meg1x
-2x
+## na, hat megiscsak mukodik
